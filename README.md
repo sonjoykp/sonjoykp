@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sonjoy Kumar Paul, a Graduate Student Research Assistant in the Department of Computer and Information Science at the University of Michigan-Dearborn. My research interests include Software Engineering, Operating Systems, Data Centers & Cloud Computing, and Distributed Systems.
+I'm Sonjoy Kumar Paul, a Graduate Student Research Assistant in the Department of Computer and Information Science at the University of Michigan-Dearborn. My research interests include Software Engineering, High-Performance Computing, Distributed Systems & Cloud Computing.
 
-Previously, I worked for 5 years as a C++ software engineer at CodeCrafters International Ltd., where I gained extensive experience in large-scale portfolio management and credit analysis software. I had the opportunity to work on complex projects with a codebase of over 2 million lines. I have expertise in code review, software development, and implementing efficient data structures.
+Previously, I worked for 5 years as a C++ software engineer at [CodeCrafters International Ltd.](https://www.codecraftersintl.com/), where I gained extensive experience in large-scale portfolio management and credit analysis software. I had the opportunity to work on complex projects with a codebase of over 2 million lines. I have expertise in code review, software development, and implementing efficient data structures.
 
-I hold a Bachelor's Degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh. In addition to C++ and C, my top skills include software engineering principles and data structures. I am passionate about creating efficient and robust solutions through my expertise in these areas.
+I hold a Bachelor's Degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), Dhaka, Bangladesh. In addition to C++ and C, my top skills include software engineering principles and data structures. I am passionate about creating efficient and robust solutions through my expertise in these areas.
